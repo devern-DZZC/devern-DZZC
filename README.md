@@ -22,9 +22,9 @@
 - 🔭 Recent Projects:
   - 🧠 Loan Interest Rate Predictor (ML + Flask + React)
   - 📊 Student Performance Predictor
-  - 🔐 JWT-authenticated CRUD systems
+  - 🔐 UWI Map App
 - 💬 Ask me about Python, Flask, ML, or interview prep!
-- ⚡ Fun fact: I'm from Trinidad 🇹🇹 and I love solving ICPC-style problems.
+- ⚡ Fun fact: I'm from Trinidad 🇹🇹 and I love solving Leetcode-style problems.
 
 ## 🛠 &nbsp;Tech Stack
 
