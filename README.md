@@ -21,8 +21,8 @@
 - 🌱 Currently improving my skills in backend engineering, MLOps, and system design
 - 🔭 Recent Projects:
   - 🧠 Loan Interest Rate Predictor (ML + Flask + React)
-  - 📊 Student Performance Predictor
-  - 🔐 UWI Map App
+  - 📊 ShippersTT Website (ML + Flask + React)
+  - 🔐 UWI Map App (Google Maps API + Flask + JavaScript)
 - 💬 Ask me about Python, Flask, ML, or interview prep!
 - ⚡ Fun fact: I'm from Trinidad 🇹🇹 and I love solving Leetcode-style problems.
 
@@ -31,6 +31,9 @@
 #### 🔧 Languages
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2300C7B7.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
