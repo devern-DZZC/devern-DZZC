@@ -65,7 +65,12 @@
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devern-DZZC&theme=react-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devern-DZZC&theme=algolia&hide_border=true&background=1e2b3c)](https://git.io/streak-stats)
 </div>
+
+## 🏆 GitHub Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=devern-DZZC&theme=darkhub&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
