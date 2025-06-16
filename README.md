@@ -63,7 +63,7 @@
 
 ![Devern's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devern-DZZC&show_icons=true&theme=algolia&bg_color=1e2b3c&border_color=95ccff&border_radius=12)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devern-DZZC&layout=compact&theme=algolia&bg_color=1e2b3c)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devern-DZZC&theme=react-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
