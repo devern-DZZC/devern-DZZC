@@ -17,7 +17,7 @@
 
 ---
 
-- 🎓 CS Undergrad @ UWI | Expected May 2026
+- 🎓 CS Undergrad @ UWI | Expected Dec 2026
 - 🌱 Currently improving my skills in backend engineering, MLOps, and system design
 - 🔭 Recent Projects:
   - 🧠 Loan Interest Rate Predictor (ML + Flask + React)
